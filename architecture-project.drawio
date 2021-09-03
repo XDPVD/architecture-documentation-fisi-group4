@@ -1,0 +1,965 @@
+<mxfile host="65bd71144e" pages="2">
+    <diagram id="xXDM-nsJ-aFPto6Djw7N" name="Context ">
+        <mxGraphModel dx="1171" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="kfsioTicmDDUS6ombR96-2" value="Sistema administrativo de los recursos empresariales DieguitoCunasERP" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="710" y="490" width="240" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-3" value="Administrador" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="280" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-4" value="Gerente de entrega" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="450" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-5" value="Gerente de atencion al cliente" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="610" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-6" value="Gerente de fabricacion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="790" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-7" value="Facebook Business" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" parent="1" vertex="1">
+                    <mxGeometry x="1010" y="150" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-9" value="Whatsapp Business" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" parent="1" vertex="1">
+                    <mxGeometry x="1170" y="350" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-10" value="OpenBanking Interbank" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" parent="1" vertex="1">
+                    <mxGeometry x="1230" y="500" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-11" value="OpenBanking Prometeo" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" parent="1" vertex="1">
+                    <mxGeometry x="1170" y="650" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-12" value="BBVA Net Cash" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" parent="1" vertex="1">
+                    <mxGeometry x="1110" y="750" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-13" value="Waze" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" parent="1" vertex="1">
+                    <mxGeometry x="950" y="810" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-14" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kfsioTicmDDUS6ombR96-3" target="kfsioTicmDDUS6ombR96-2" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="700" y="440" as="sourcePoint"/>
+                        <mxPoint x="750" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-24" value="Monitorea y realiza operaciones de alto nivel &lt;br&gt;y mayor peso para la empresa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kfsioTicmDDUS6ombR96-14" vertex="1" connectable="0">
+                    <mxGeometry x="-0.2121" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-15" value="Gestiona las entregas de los productos &lt;br&gt;que se realiza en la empresa" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kfsioTicmDDUS6ombR96-4" target="kfsioTicmDDUS6ombR96-2" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="560" y="640" as="sourcePoint"/>
+                        <mxPoint x="610" y="590" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-16" value="Gestiona la informacion de &lt;br&gt;los clientes de la empresa" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="kfsioTicmDDUS6ombR96-5" target="kfsioTicmDDUS6ombR96-2" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="630" y="670" as="sourcePoint"/>
+                        <mxPoint x="680" y="620" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-17" value="Gestiona la elaboracion de los productos &lt;br&gt;y el inventario necesario" style="endArrow=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="kfsioTicmDDUS6ombR96-6" target="kfsioTicmDDUS6ombR96-2" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="670" y="780" as="sourcePoint"/>
+                        <mxPoint x="680" y="630" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-18" value="" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=60;entryDy=80;entryPerimeter=0;" parent="1" source="kfsioTicmDDUS6ombR96-2" target="kfsioTicmDDUS6ombR96-7" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="940" y="450" as="sourcePoint"/>
+                        <mxPoint x="990" y="400" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-25" value="Brinda un canal de comunicacion para la &lt;br&gt;administracion de las paginas creadas en dicha plataforma" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kfsioTicmDDUS6ombR96-18" vertex="1" connectable="0">
+                    <mxGeometry x="0.3569" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-19" value="Canal de comunicacion &lt;br&gt;entre los empleados, los actores externos&lt;br&gt;y la empresa" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="kfsioTicmDDUS6ombR96-2" target="kfsioTicmDDUS6ombR96-9" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="970" y="510" as="sourcePoint"/>
+                        <mxPoint x="1020" y="460" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-20" value="Canal para enviar acciones y &lt;br&gt;recibir la informacion del banco Interbank" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" parent="1" source="kfsioTicmDDUS6ombR96-2" target="kfsioTicmDDUS6ombR96-10" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1000" y="560" as="sourcePoint"/>
+                        <mxPoint x="1050" y="510" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-21" value="Canal para enviar acciones y &lt;br&gt;recibir informacion de los bancos &lt;br&gt;relacionados con Prometeo" style="endArrow=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" parent="1" source="kfsioTicmDDUS6ombR96-2" target="kfsioTicmDDUS6ombR96-11" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1010" y="650" as="sourcePoint"/>
+                        <mxPoint x="1060" y="600" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-22" value="Canal de comunicacion para &lt;br&gt;gestionar cuentas bancarias BBVA" style="endArrow=none;html=1;exitX=0.733;exitY=0.957;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;exitPerimeter=0;" parent="1" source="kfsioTicmDDUS6ombR96-2" target="kfsioTicmDDUS6ombR96-12" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1000" y="690" as="sourcePoint"/>
+                        <mxPoint x="1050" y="640" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kfsioTicmDDUS6ombR96-23" value="Brinda y genera las &lt;br&gt;rutas necesarias para la entrega" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" parent="1" source="kfsioTicmDDUS6ombR96-2" target="kfsioTicmDDUS6ombR96-13" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="890" y="760" as="sourcePoint"/>
+                        <mxPoint x="940" y="710" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="Vt8nIQVjKHPJxVA6RDUy" name="1st-iteration">
+        <mxGraphModel dx="2900" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="3OkdOgs1lVMLDJKRc_qc-0"/>
+                <mxCell id="3OkdOgs1lVMLDJKRc_qc-1" parent="3OkdOgs1lVMLDJKRc_qc-0"/>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-570" y="1710" width="860" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-0" value="Sistema administrativo de los recursos empresariales DieguitoCunasERP" style="ellipse;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="720" y="500" width="240" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-1" value="Administrador" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="530" y="290" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-2" value="Gerente de entrega" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="380" y="460" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-3" value="Gerente de atencion al cliente" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="380" y="620" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-4" value="Gerente de fabricacion" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="530" y="800" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-5" value="Facebook Business" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1020" y="160" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-6" value="Whatsapp Business" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1180" y="360" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-7" value="OpenBanking Interbank" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1240" y="510" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-8" value="OpenBanking Prometeo" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1180" y="660" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-9" value="BBVA Net Cash" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1120" y="760" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-10" value="Waze" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="960" y="820" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-11" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="bYi0w0jxv4W7mnYCSEYA-1" target="bYi0w0jxv4W7mnYCSEYA-0" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="710" y="450" as="sourcePoint"/>
+                        <mxPoint x="760" y="400" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-12" value="Monitorea y realiza operaciones de alto nivel &lt;br&gt;y mayor peso para la empresa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bYi0w0jxv4W7mnYCSEYA-11" vertex="1" connectable="0">
+                    <mxGeometry x="-0.2121" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-13" value="Gestiona las entregas de los productos &lt;br&gt;que se realiza en la empresa" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="bYi0w0jxv4W7mnYCSEYA-2" target="bYi0w0jxv4W7mnYCSEYA-0" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="570" y="650" as="sourcePoint"/>
+                        <mxPoint x="620" y="600" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-14" value="Gestiona la informacion de &lt;br&gt;los clientes de la empresa" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="bYi0w0jxv4W7mnYCSEYA-3" target="bYi0w0jxv4W7mnYCSEYA-0" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="640" y="680" as="sourcePoint"/>
+                        <mxPoint x="690" y="630" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-15" value="Gestiona la elaboracion de los productos &lt;br&gt;y el inventario necesario" style="endArrow=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="bYi0w0jxv4W7mnYCSEYA-4" target="bYi0w0jxv4W7mnYCSEYA-0" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="680" y="790" as="sourcePoint"/>
+                        <mxPoint x="690" y="640" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-16" value="" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=60;entryDy=80;entryPerimeter=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="bYi0w0jxv4W7mnYCSEYA-0" target="bYi0w0jxv4W7mnYCSEYA-5" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="950" y="460" as="sourcePoint"/>
+                        <mxPoint x="1000" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-17" value="Brinda un canal de comunicacion para la &lt;br&gt;administracion de las paginas creadas en dicha plataforma" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bYi0w0jxv4W7mnYCSEYA-16" vertex="1" connectable="0">
+                    <mxGeometry x="0.3569" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-18" value="Canal de comunicacion &lt;br&gt;entre los empleados, los actores externos&lt;br&gt;y la empresa" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="bYi0w0jxv4W7mnYCSEYA-0" target="bYi0w0jxv4W7mnYCSEYA-6" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="980" y="520" as="sourcePoint"/>
+                        <mxPoint x="1030" y="470" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-19" value="Canal para enviar acciones y &lt;br&gt;recibir la informacion del banco Interbank" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="bYi0w0jxv4W7mnYCSEYA-0" target="bYi0w0jxv4W7mnYCSEYA-7" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1010" y="570" as="sourcePoint"/>
+                        <mxPoint x="1060" y="520" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-20" value="Canal para enviar acciones y &lt;br&gt;recibir informacion de los bancos &lt;br&gt;relacionados con Prometeo" style="endArrow=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="bYi0w0jxv4W7mnYCSEYA-0" target="bYi0w0jxv4W7mnYCSEYA-8" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1020" y="660" as="sourcePoint"/>
+                        <mxPoint x="1070" y="610" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-21" value="Canal de comunicacion para &lt;br&gt;gestionar cuentas bancarias BBVA" style="endArrow=none;html=1;exitX=0.733;exitY=0.957;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;exitPerimeter=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="bYi0w0jxv4W7mnYCSEYA-0" target="bYi0w0jxv4W7mnYCSEYA-9" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1010" y="700" as="sourcePoint"/>
+                        <mxPoint x="1060" y="650" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-22" value="Brinda y genera las &lt;br&gt;rutas necesarias para la entrega" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="bYi0w0jxv4W7mnYCSEYA-0" target="bYi0w0jxv4W7mnYCSEYA-10" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="900" y="770" as="sourcePoint"/>
+                        <mxPoint x="950" y="720" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-25" value="&lt;b style=&quot;font-weight: normal&quot; id=&quot;docs-internal-guid-3eae66cb-7fff-262f-4c25-9feb10a25097&quot;&gt;&lt;div dir=&quot;ltr&quot; style=&quot;margin-left: -15pt&quot; align=&quot;left&quot;&gt;&lt;table style=&quot;border: none ; border-collapse: collapse&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;62&quot;&gt;&lt;col width=&quot;385&quot;&gt;&lt;col width=&quot;96&quot;&gt;&lt;col width=&quot;108&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Código&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Driver&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Requisito&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Tipo&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA01&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Generación de informes para entregas, pedidos, entregas, compras y pagos&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RF09,RF10, RF11,RF17,RF20,RF21,RF24,RF26,&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Funcional&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA02&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Gestión de información de catálogos, empleados, clientes, proveedores, materia prima y pedidos&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RF01,RF02,RF07,RF08,RF13,RF14,RF18&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Funcional&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA03&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Monitoreo de las actividades de los empleados&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RF03,RF04&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Funcional&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA04&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Gestión del estado, fecha y ruta de entrega de los pedidos&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RF12,RF19,RF22,RF23,RF25&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Funcional&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA05&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Gestión de los pagos y transacciones que se realicen a las cuentas de la empresa&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RF06,RF16&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Funcional&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA06&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Gestionar canales de comunicación con los proveedores para solicitar materia prima&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RF15&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Funcional&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA07&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Administrar el estado de cuenta financiera de la empresa&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RF27&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Funcional&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 22.39892578125pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA08&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Seguimiento a clientes frecuentes&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RF05&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Funcional&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA09&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: middle ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Interfaz intuitiva y amigable para los usuarios del sistema&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RNF01&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Atributo de Calidad: Usabilidad&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA10&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: middle ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;100% de disponibilidad en horarios de trabajo (6:00 - 0:00) todos los días de la semana&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RNF02&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Atributo de Calidad: Disponibilidad&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA11&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: middle ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Permitir aumentar el número de funcionalidades del sistema a medida que la empresa vaya creciendo&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RNF03&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Atributo de Calidad: Escalabilidad&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA12&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: middle ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Respaldo de datos de la empresa, clientes y proveedores en caso de una caída del sistema&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RNF04&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Atributo de Calidad: Disponibilidad&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA13&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: middle ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Los tiempos de respuesta debe ser de menos de 2 segundos para soportar a todos los usuarios del sistema&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RNF05&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Atributo de Calidad: Performance&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA14&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: middle ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Los usuarios deben ingresar credenciales para acceder a funciones críticas del sistema&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RNF06&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Atributo de Calidad: Seguridad&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA15&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: middle ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;La información privada e importante en la base de datos debe ser encriptada&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RNF07&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Atributo de Calidad: Seguridad&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA16&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;El sistema debe ser web y funcionar principalmente en los navegadores Google Chrome y Microsoft Edge&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RT01&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Restricción Técnica&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA17&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Las vistas del sistema deben ser ligeras y no consumir más de 1Gb de Memoria RAM&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RT02&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Restricción Técnica&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA18&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;El sistema deberá estar alojado en la nube debido a que la empresa no cuenta con los recursos necesarios para administrar servidores locales&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RT03&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Restricción Técnica&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA19&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: middle ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;El sistema debe proporcionar roles a los usuarios y estos no pueden acceder a otros roles&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RN01&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Restricción de Negocio&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA20&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: middle ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Los documentos críticos sólo podrán ser manejados por el administrador del negocio&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RN02&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Restricción de Negocio&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA21&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: middle ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;El sistema trabajará con el sistema económico peruano, es decir que el tipo de cambio que se manejará será el nuevo sol.&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RN03&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Restricción de Negocio&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; text-align: center ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;DA22&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Los reportes que se generan mensualmente deberán ser enviados sin falta al contador externo de turno que trabaja con la empresa.&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;RN04&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Restricción de Negocio&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-540" y="30" width="830" height="1240" as="geometry"/>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-26" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Particion del sistema&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-400" y="1470" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-27" value="Sistema administrativo de los recursos empresariales DieguitoCunasERP" style="ellipse;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-290" y="1360" width="240" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="bYi0w0jxv4W7mnYCSEYA-28" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-170.34" y="1470" as="sourcePoint"/>
+                        <mxPoint x="-170" y="1520" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-1" value="Gestion de entrega de pedidos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-400" y="1770" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-3" value="Gestion de empleados y sus actividades" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-257.22" y="1770" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-4" value="Administracion financiera" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-119.72" y="1770" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-5" value="Gestion de los clientes" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-540" y="1770" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-6" value="Gestion de inventario" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="19.44" y="1770" width="150.56" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-7" value="Gestion de proveedores" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-540" y="1880" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-10" value="Administracion del flujo de caja" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-260" y="1880" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-11" value="Gestion de productos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-119.71999999999994" y="1880" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-12" value="Documentacion" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-402.78" y="1880" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-13" value="Gestion de pedidos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="19.44" y="1880" width="150.56" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-16" value="Capa Logica de Negocio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-700" y="1830" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-17" value="Capa de presentacion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-700" y="1610" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-572.22" y="1560" width="862.22" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-19" value="Vista de gerente de entrega de pedidos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-470" y="1595" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-20" value="Vista de administrador" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry y="1595" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-570" y="2050" width="860" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-22" value="Capa de persistencia de datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-700" y="2110" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-23" value="Base de datos relacional" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-195.56" y="2090" width="105" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-24" value="Contiene y presenta interfaces graficas segun el tipo de usuario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="310" y="1595" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-25" value="Vista de gerente de fabricacion" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-150" y="1595" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-26" value="Vista de gerente de atencion al cliente" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-310" y="1595" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-27" value="Contiene los componentes necesarios para la logica de negocio de la organizacion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="310" y="1815" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-29" value="Almacena los datos generados por la capa logica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="310" y="2075" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-31" value="Se elige una arquitectura de 3 capas con el fin de tener una vision mas dividida y cohesiva del sistema" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="30" y="1400" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-32" value="Se eliga una base de datos relacional debido a la naturaleza pequena que tiene la MYPE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="450" y="2075" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-33" value="Pocas transacciones masivas&lt;br&gt;Velocidad de transaccion promedios&lt;br&gt;Consistencia en su informacion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="575" y="2075" width="195" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-34" value="Cada driver especificado se coloca en un componente de la capa logica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="310" y="1720" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-35" value="Se elige utilizar componentes en vez de servicios debido al caracter personalizado que tiene el sistema" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="310" y="1900" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-36" value="API de sistemas externos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="180" y="1770" width="80" height="175" as="geometry"/>
+                </mxCell>
+                <mxCell id="6IgjxkzLY6vwR6wyfOav-37" value="La API de sistema externos se encargara de manejar y gestionar de mejor manera los servicios externos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="440" y="1805" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="J5CmCQ9Pk0p4b6Tr7Mxy-0" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Decisiones de diseno&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="300" y="1310" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="J5CmCQ9Pk0p4b6Tr7Mxy-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;i&gt;Cambio de perspectiva&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-770" y="2370" width="220" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-760" y="2594" width="862.22" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-1" value="Vista de gerente de entrega de pedidos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-640" y="2629" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-2" value="Vista de administrador" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-170" y="2629" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-3" value="Vista de gerente de fabricacion" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-320" y="2629" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-4" value="Vista de gerente de atencion al cliente" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-480" y="2629" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-760" y="2770" width="860" height="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-6" value="Gestion de entrega de pedidos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-590" y="2824" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-7" value="Gestion de empleados y sus actividades" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-447.22" y="2824" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-8" value="Administracion financiera" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-309.72" y="2824" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-9" value="Gestion de los clientes" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-730" y="2824" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-10" value="Gestion de inventario" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-170.56" y="2824" width="150.56" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-11" value="Gestion de proveedores" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-730" y="2940" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-12" value="Administracion del flujo de caja" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-450" y="2940" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-13" value="Gestion de productos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-309.7199999999999" y="2940" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-14" value="Documentacion" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-592.78" y="2940" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-15" value="Gestion de pedidos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-170.56" y="2940" width="150.56" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-16" value="API de sistemas externos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry y="2819" width="80" height="191" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-757.78" y="3084" width="860" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-18" value="Base de datos relacional" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-381.39" y="3154" width="105" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-19" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;i&gt;Perspectiva estatica&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="-840" y="2430" width="220" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-20" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;i&gt;Perspectiva fisica&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="330" y="2450" width="220" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-21" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;i&gt;Perspectiva de componentes&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="930" y="2420" width="220" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-22" value="&amp;lt;&amp;lt;client&amp;gt;&amp;gt;&lt;br&gt;Navegador Web" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="330" y="2570" width="182.5" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-23" value="Static Template" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;" parent="-sxaqTVFom_RuwNgB-Ms-22" vertex="1">
+                    <mxGeometry width="140" height="40" relative="1" as="geometry">
+                        <mxPoint x="18" y="70" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-25" value="&lt;div&gt;&lt;span&gt;&amp;lt;&amp;lt;server&amp;gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Virtual Machine&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="575" y="2540" width="275" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-26" value="&amp;lt;&amp;lt;appContainer&amp;gt;&amp;gt;&lt;br&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;" parent="-sxaqTVFom_RuwNgB-Ms-25" vertex="1">
+                    <mxGeometry width="240" height="100" relative="1" as="geometry">
+                        <mxPoint x="15" y="55" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-31" value="DieguitoCunasERP" style="rounded=0;whiteSpace=wrap;html=1;" parent="-sxaqTVFom_RuwNgB-Ms-25" vertex="1">
+                    <mxGeometry x="25" y="100" width="205" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-29" value="&amp;lt;&amp;lt;server&amp;gt;&amp;gt;&lt;br&gt;Database Server" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="388.75" y="2800" width="222.5" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-30" value="&amp;lt;&amp;lt;DBMS&amp;gt;&amp;gt;&lt;br&gt;Postgres" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;" parent="-sxaqTVFom_RuwNgB-Ms-29" vertex="1">
+                    <mxGeometry width="180" height="100" relative="1" as="geometry">
+                        <mxPoint x="18" y="70" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-32" value="DieguitoCunasData" style="rounded=0;whiteSpace=wrap;html=1;" parent="-sxaqTVFom_RuwNgB-Ms-29" vertex="1">
+                    <mxGeometry x="34.74657534246575" y="130" width="135.93835616438355" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-33" value="" style="endArrow=none;html=1;exitX=0;exitY=0;exitDx=15;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="-sxaqTVFom_RuwNgB-Ms-23" target="-sxaqTVFom_RuwNgB-Ms-31" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="500" y="2810" as="sourcePoint"/>
+                        <mxPoint x="550" y="2760" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-34" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-sxaqTVFom_RuwNgB-Ms-33" vertex="1" connectable="0">
+                    <mxGeometry x="-0.2374" y="-1" relative="1" as="geometry">
+                        <mxPoint x="12" y="2" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-35" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="-sxaqTVFom_RuwNgB-Ms-32" target="-sxaqTVFom_RuwNgB-Ms-31" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="670" y="2785" as="sourcePoint"/>
+                        <mxPoint x="782" y="2790" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-36" value="Conector" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-sxaqTVFom_RuwNgB-Ms-35" vertex="1" connectable="0">
+                    <mxGeometry x="-0.2374" y="-1" relative="1" as="geometry">
+                        <mxPoint x="54" y="-71" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1000" y="2510" width="862.22" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-38" value="Vista de gerente de entrega de pedidos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1120" y="2545" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-39" value="Vista de administrador" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1590" y="2545" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-40" value="Vista de gerente de fabricacion" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1440" y="2545" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-41" value="Vista de gerente de atencion al cliente" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1280" y="2545" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1000" y="2670" width="860" height="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="-sxaqTVFom_RuwNgB-Ms-43" target="-sxaqTVFom_RuwNgB-Ms-53" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1232" y="2740"/>
+                            <mxPoint x="1800" y="2740"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-43" value="Gestion de entrega de pedidos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1170" y="2780" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="-sxaqTVFom_RuwNgB-Ms-44" target="-sxaqTVFom_RuwNgB-Ms-53" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1375" y="2760"/>
+                            <mxPoint x="1780" y="2760"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-44" value="Gestion de empleados y sus actividades" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1312.78" y="2780" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-45" value="Administracion financiera" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1450.28" y="2780" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="-sxaqTVFom_RuwNgB-Ms-49" target="-sxaqTVFom_RuwNgB-Ms-53" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1800" y="3010" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1375" y="3030"/>
+                            <mxPoint x="1800" y="3030"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="-sxaqTVFom_RuwNgB-Ms-46" target="-sxaqTVFom_RuwNgB-Ms-53" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1092" y="2730"/>
+                            <mxPoint x="1820" y="2730"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-46" value="Gestion de los clientes" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1030" y="2780" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-47" value="Gestion de inventario" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1589.44" y="2780" width="150.56" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="-sxaqTVFom_RuwNgB-Ms-48" target="-sxaqTVFom_RuwNgB-Ms-53" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1092" y="3050"/>
+                            <mxPoint x="1820" y="3050"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-48" value="Gestion de proveedores" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1030" y="2929" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-49" value="Administracion del flujo de caja" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1310" y="2929" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-50" value="Gestion de productos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1450.28" y="2929" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-51" value="Documentacion" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1167.22" y="2929" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-52" value="Gestion de pedidos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1589.44" y="2929" width="150.56" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-53" value="API de sistemas externos" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1760" y="2780" width="80" height="219" as="geometry"/>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.295;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="-sxaqTVFom_RuwNgB-Ms-57" target="1gr-NJT8D23iSdrRB9bh-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" target="1gr-NJT8D23iSdrRB9bh-3">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1030" y="2890" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="1030" y="2900"/>
+                            <mxPoint x="1010" y="2900"/>
+                            <mxPoint x="1010" y="3085"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-57" value="Bus" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1030" y="2875" width="710" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1000" y="3140" width="860" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-59" value="Base de datos relacional" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="3OkdOgs1lVMLDJKRc_qc-1" vertex="1">
+                    <mxGeometry x="1376.3899999999999" y="3180" width="105" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-60" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.088;exitY=-0.019;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" source="-sxaqTVFom_RuwNgB-Ms-57" target="-sxaqTVFom_RuwNgB-Ms-46" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1092" y="2879" as="sourcePoint"/>
+                        <mxPoint x="1092.2199999999998" y="2859" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-61" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.088;exitY=-0.019;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1235.1300000000006" y="2875.0000000000005" as="sourcePoint"/>
+                        <mxPoint x="1234.8700000000003" y="2850.57" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-62" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.088;exitY=-0.019;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1375.0600000000004" y="2875.0000000000005" as="sourcePoint"/>
+                        <mxPoint x="1374.8000000000002" y="2850.57" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-63" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.088;exitY=-0.019;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1520.2600000000004" y="2875.0000000000005" as="sourcePoint"/>
+                        <mxPoint x="1520.0000000000002" y="2850.57" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-64" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.088;exitY=-0.019;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1664.7800000000007" y="2875.0000000000005" as="sourcePoint"/>
+                        <mxPoint x="1664.5200000000004" y="2850.57" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-65" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.088;exitY=-0.019;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1092.3100000000004" y="2929.4300000000003" as="sourcePoint"/>
+                        <mxPoint x="1092.0500000000002" y="2905" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-66" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.088;exitY=-0.019;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1235.0900000000004" y="2929.0000000000005" as="sourcePoint"/>
+                        <mxPoint x="1234.8300000000002" y="2904.57" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-67" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.088;exitY=-0.019;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1376.65" y="2930.0000000000005" as="sourcePoint"/>
+                        <mxPoint x="1376.3899999999999" y="2905.57" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-68" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.088;exitY=-0.019;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1520.2600000000002" y="2930.0000000000005" as="sourcePoint"/>
+                        <mxPoint x="1520" y="2905.57" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-sxaqTVFom_RuwNgB-Ms-69" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.088;exitY=-0.019;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3OkdOgs1lVMLDJKRc_qc-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1664.8400000000001" y="2929.0000000000005" as="sourcePoint"/>
+                        <mxPoint x="1664.58" y="2904.57" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-2" value="Conector con vistas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="1029.89" y="2680" width="798" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-3" value="Conector con la base de datos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="1029.89" y="3070" width="798" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-6" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.191;exitY=-0.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="1gr-NJT8D23iSdrRB9bh-2" target="-sxaqTVFom_RuwNgB-Ms-38">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1170" y="2680" as="sourcePoint"/>
+                        <mxPoint x="1220" y="2630" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-7" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.39;exitY=-0.078;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="1gr-NJT8D23iSdrRB9bh-2" target="-sxaqTVFom_RuwNgB-Ms-41">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1310" y="2690" as="sourcePoint"/>
+                        <mxPoint x="1360" y="2640" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-8" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.592;exitY=-0.101;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="1gr-NJT8D23iSdrRB9bh-2" target="-sxaqTVFom_RuwNgB-Ms-40">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1470" y="2690" as="sourcePoint"/>
+                        <mxPoint x="1520" y="2640" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-9" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.78;exitY=0.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="1gr-NJT8D23iSdrRB9bh-2" target="-sxaqTVFom_RuwNgB-Ms-39">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1640" y="2690" as="sourcePoint"/>
+                        <mxPoint x="1690" y="2640" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-10" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="-sxaqTVFom_RuwNgB-Ms-59" target="1gr-NJT8D23iSdrRB9bh-3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1410" y="3180" as="sourcePoint"/>
+                        <mxPoint x="1460" y="3130" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-11" value="Conector con vistas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="-539" y="1730" width="809" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-12" value="Conector con base de datos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="-539" y="1960" width="809" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-13" value="Facebook Business" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="1980" y="2680" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-14" value="Whatsapp Business" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="1980" y="2784" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-15" value="OpenBanking Interbank" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="1980" y="2890" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-16" value="OpenBanking Prometeo" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="1980" y="2994" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-17" value="BBVA Net Cash" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="1980" y="2590" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-18" value="Waze" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="1980" y="3090" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-19" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.033;entryY=0.527;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="-sxaqTVFom_RuwNgB-Ms-53" target="1gr-NJT8D23iSdrRB9bh-17">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1880" y="2900" as="sourcePoint"/>
+                        <mxPoint x="1930" y="2850" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-20" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1.027;exitY=0.409;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="-sxaqTVFom_RuwNgB-Ms-53" target="1gr-NJT8D23iSdrRB9bh-13">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1900" y="2940" as="sourcePoint"/>
+                        <mxPoint x="1950" y="2890" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-21" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" target="1gr-NJT8D23iSdrRB9bh-18">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1840" y="2980" as="sourcePoint"/>
+                        <mxPoint x="1940" y="2960" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-22" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.996;exitY=0.782;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="-sxaqTVFom_RuwNgB-Ms-53" target="1gr-NJT8D23iSdrRB9bh-16">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1880" y="2980" as="sourcePoint"/>
+                        <mxPoint x="1930" y="2930" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-23" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" target="1gr-NJT8D23iSdrRB9bh-15">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1841" y="2934" as="sourcePoint"/>
+                        <mxPoint x="1940" y="2910" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-24" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1.017;exitY=0.573;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="-sxaqTVFom_RuwNgB-Ms-53" target="1gr-NJT8D23iSdrRB9bh-14">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1890" y="2920" as="sourcePoint"/>
+                        <mxPoint x="1940" y="2870" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-25" value="Conector con vistas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="-730" y="2784" width="809" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-26" value="Conector con base de datos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="-730" y="3020" width="809" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-27" value="Bus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="-729" y="2900" width="709" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="1gr-NJT8D23iSdrRB9bh-28" value="Bus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="-540" y="1845" width="709" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Lpm6RpnUm2KChpqw6A5N-0" value="BusCore" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="220" y="3367.5" width="155.56" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="Lpm6RpnUm2KChpqw6A5N-1" value="BusAPI" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="-122.78" y="3810" width="802.78" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="Lpm6RpnUm2KChpqw6A5N-3" value="Empleados&lt;br&gt;y sus actividades" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="-145.56000000000003" y="4240" width="150" height="87.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="Lpm6RpnUm2KChpqw6A5N-4" value="inventario" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="-343.89999999999986" y="4140" width="155.56" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="Lpm6RpnUm2KChpqw6A5N-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0;entryY=0;entryDx=0;entryDy=29.25;entryPerimeter=0;exitX=0.679;exitY=0.355;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="0yBK-dtUmV3q0SZWCssA-2" target="Lpm6RpnUm2KChpqw6A5N-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-362.78" y="3970" as="sourcePoint"/>
+                        <mxPoint x="-132.78" y="3980" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-362.78" y="3839"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Lpm6RpnUm2KChpqw6A5N-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.368;entryY=0.189;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=59.75;exitPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="Lpm6RpnUm2KChpqw6A5N-1" target="Lpm6RpnUm2KChpqw6A5N-4">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-252.78" y="4070" as="sourcePoint"/>
+                        <mxPoint x="283.88000000000034" y="3604.5" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-282.78" y="3870"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-0" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.433;exitY=1.079;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=421.39;entryDy=14;entryPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="Lpm6RpnUm2KChpqw6A5N-0" target="Lpm6RpnUm2KChpqw6A5N-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-62.78" y="3760" as="sourcePoint"/>
+                        <mxPoint x="182.22" y="3821" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-2" value="Clientes" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="-462.78" y="3950" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.06;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.412;exitY=0.162;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="Lpm6RpnUm2KChpqw6A5N-3" target="Lpm6RpnUm2KChpqw6A5N-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-85.78" y="4254" as="sourcePoint"/>
+                        <mxPoint x="462.22" y="3890" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-7" value="Administración &lt;br&gt;financiera" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="69.99999999999997" y="4222.5" width="150" height="87.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0;exitY=0;exitDx=40;exitDy=14;exitPerimeter=0;entryX=0.295;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="0yBK-dtUmV3q0SZWCssA-7" target="Lpm6RpnUm2KChpqw6A5N-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-82.78" y="4180" as="sourcePoint"/>
+                        <mxPoint x="47.22" y="3893" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-9" value="Documentación" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="512.5" y="4240" width="150" height="87.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-10" value="Proveedores" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="350" y="4240" width="150" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-11" value="" style="endArrow=none;dashed=1;html=1;exitX=0.385;exitY=0.162;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.663;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="0yBK-dtUmV3q0SZWCssA-10" target="Lpm6RpnUm2KChpqw6A5N-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-82.78" y="4040" as="sourcePoint"/>
+                        <mxPoint x="227.22" y="3890" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-12" value="" style="endArrow=none;dashed=1;html=1;exitX=0.45;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.872;entryY=1.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="0yBK-dtUmV3q0SZWCssA-9" target="Lpm6RpnUm2KChpqw6A5N-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="187.22" y="4010" as="sourcePoint"/>
+                        <mxPoint x="407.22" y="3890" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-13" value="Productos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="817.11" y="3930" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-14" value="Entrega de Pedidos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="-505.5599999999999" y="3710" width="150" height="87.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-15" value="Pedidos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="879.89" y="3710" width="150" height="67.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-16" value="Flujo de caja" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="700" y="4133.75" width="150" height="87.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-17" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0;entryDx=150;entryDy=50.75;entryPerimeter=0;exitX=0.091;exitY=0.173;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="Lpm6RpnUm2KChpqw6A5N-1" target="0yBK-dtUmV3q0SZWCssA-14">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="7.219999999999999" y="3800" as="sourcePoint"/>
+                        <mxPoint x="237.22" y="3980" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-67" y="3761"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-18" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0;entryDx=0;entryDy=50.75;entryPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" target="0yBK-dtUmV3q0SZWCssA-15">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="650" y="3830" as="sourcePoint"/>
+                        <mxPoint x="437.11" y="3980" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="649.89" y="3761"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-19" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0;entryDx=610;entryDy=29.25;entryPerimeter=0;exitX=0.498;exitY=0.096;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" source="0yBK-dtUmV3q0SZWCssA-13">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="387.11" y="4030" as="sourcePoint"/>
+                        <mxPoint x="687.1099999999998" y="3839.25" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="892.11" y="3839"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-20" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0;entryDx=610;entryDy=59.75;entryPerimeter=0;exitX=0;exitY=0;exitDx=95;exitDy=14;exitPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="767.1100000000002" y="4154" as="sourcePoint"/>
+                        <mxPoint x="687.1099999999998" y="3869.75" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="767.11" y="3870"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-23" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;i&gt;Perspectiva estática&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="-637.78" y="3390" width="220" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-25" value="DataBase Connector" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="3OkdOgs1lVMLDJKRc_qc-1">
+                    <mxGeometry x="-323" y="3550" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="0yBK-dtUmV3q0SZWCssA-26" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0;entryDx=150;entryDy=55;entryPerimeter=0;" edge="1" parent="3OkdOgs1lVMLDJKRc_qc-1" target="0yBK-dtUmV3q0SZWCssA-25">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-40" y="3826" as="sourcePoint"/>
+                        <mxPoint x="210" y="3670" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-40" y="3605"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="55xcGuXET2xAHyXwq2ND" name="2nd-iteration">
+        <mxGraphModel dx="1670" dy="-622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="GlNeNtivlW9n5hH0jTU5-0"/>
+                <mxCell id="GlNeNtivlW9n5hH0jTU5-1" parent="GlNeNtivlW9n5hH0jTU5-0"/>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-680" y="1400" width="860" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Particion del sistema&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-510" y="1160" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-3" value="Gestion de entrega de pedidos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-510" y="1460" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-4" value="Gestion de empleados y sus actividades" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-367.22" y="1460" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-5" value="Administracion financiera" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-229.72" y="1460" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-6" value="Gestion de los clientes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-650" y="1460" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-7" value="Gestion de inventario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-90.56" y="1460" width="150.56" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-8" value="Gestion de proveedores" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-650" y="1570" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-9" value="Administracion del flujo de caja" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-370" y="1570" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-10" value="Gestion de productos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-229.71999999999994" y="1570" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-11" value="Documentacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-512.78" y="1570" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-12" value="Gestion de pedidos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-90.56" y="1570" width="150.56" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-13" value="Capa Logica de Negocio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-810" y="1520" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-14" value="Capa de presentacion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-810" y="1300" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-682.22" y="1250" width="862.22" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-16" value="Vista de gerente de entrega de pedidos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-580" y="1285" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-17" value="Vista de administrador" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-110" y="1285" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-680" y="1740" width="860" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-19" value="Capa de persistencia de datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-810" y="1800" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-20" value="Base de datos relacional" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-305.56" y="1780" width="105" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-22" value="Vista de gerente de fabricacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-260" y="1285" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-21" value="Contiene y presenta interfaces graficas segun el tipo de usuario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="200" y="1285" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-23" value="Vista de gerente de atencion al cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-420" y="1285" width="124.44" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-30" value="API de sistemas externos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="70" y="1460" width="80" height="175" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-28" value="Cada driver especificado se coloca en un componente de la capa logica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="200" y="1410" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-32" value="Conector con vistas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-649" y="1420" width="809" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-33" value="Conector con base de datos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-649" y="1650" width="809" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="f6_VTIUOhtZuRoJqXj46-34" value="Bus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GlNeNtivlW9n5hH0jTU5-1">
+                    <mxGeometry x="-650" y="1535" width="709" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
