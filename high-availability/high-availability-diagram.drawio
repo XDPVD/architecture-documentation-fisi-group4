@@ -1,0 +1,247 @@
+<mxfile host="65bd71144e">
+    <diagram id="5arjOpBdXGjvf5KwIH0h" name="Page-1">
+        <mxGraphModel dx="1855" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="9" value="Docker Swarm Cluster" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="93" y="10" width="507" height="690" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Node Managers" style="fillColor=#EFF0F3;strokeColor=none;dashed=0;verticalAlign=top;fontStyle=0;fontColor=#232F3D;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="160" width="220" height="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.131;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="35" target="109">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="fillColor=#FFFFFF;strokeColor=#999999;verticalAlign=top;fontStyle=0;fontColor=#DD3522;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="124" y="200" width="120" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="manager01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="164.64" y="294" width="65" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Node Workers" style="fillColor=#EFF0F3;strokeColor=none;dashed=0;verticalAlign=top;fontStyle=0;fontColor=#232F3D;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="92.71000000000001" width="200" height="565" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;shadow=0;strokeColor=#000000;fillColor=#66B2FF;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="300" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Virtual_Clusters.svg;shadow=0;strokeColor=#000000;fillColor=#66B2FF;" vertex="1" parent="1">
+                    <mxGeometry x="580" width="41.25" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Swarm Manager&lt;/font&gt;" style="text;html=1;strokeColor=#CCCCCC;fillColor=#CCE5FF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="126.5" y="259.09" width="115" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png;strokeColor=#66B2FF;" vertex="1" parent="1">
+                    <mxGeometry x="116" y="260.91" width="60" height="28.18" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/03/Logo-Ubuntu.png;" vertex="1" parent="1">
+                    <mxGeometry x="135.75" y="294" width="28.89" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="fillColor=#FFFFFF;strokeColor=#3399FF;verticalAlign=top;fontStyle=0;fontColor=#DD3522;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="135.75" y="210" width="98.5" height="46.09" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Service_Health.svg;shadow=0;strokeColor=#3399FF;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="195" y="218.45999999999998" width="31.01" height="29.18" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="&lt;font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Cluster Monitor&lt;br&gt;Service&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="141.11" y="214.57000000000002" width="48.89" height="36.95" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="" style="fillColor=#FFFFFF;strokeColor=#999999;verticalAlign=top;fontStyle=0;fontColor=#DD3522;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="-202" y="218.46" width="120" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="manager01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="-161.36" y="312.46000000000004" width="65" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Swarm Manager&lt;/font&gt;" style="text;html=1;strokeColor=#CCCCCC;fillColor=#CCE5FF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="-199.5" y="277.54999999999995" width="115" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png;strokeColor=#66B2FF;" vertex="1" parent="1">
+                    <mxGeometry x="-210" y="279.3700000000001" width="60" height="28.18" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/03/Logo-Ubuntu.png;" vertex="1" parent="1">
+                    <mxGeometry x="-190.25" y="312.46000000000004" width="28.89" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="" style="fillColor=#FFFFFF;strokeColor=#3399FF;verticalAlign=top;fontStyle=0;fontColor=#DD3522;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="-190.25" y="228.46" width="98.5" height="46.09" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Service_Health.svg;shadow=0;strokeColor=#3399FF;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="-131" y="236.92" width="31.01" height="29.18" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="&lt;font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Cluster Monitor&lt;br&gt;Service&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="-184.89" y="233.03000000000006" width="48.89" height="36.95" as="geometry"/>
+                </mxCell>
+                <mxCell id="116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="75" target="109">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="" style="fillColor=#FFFFFF;strokeColor=#999999;verticalAlign=top;fontStyle=0;fontColor=#DD3522;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="124" y="330" width="120" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="manager02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="164.64" y="424" width="65" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Swarm Manager&lt;/font&gt;" style="text;html=1;strokeColor=#CCCCCC;fillColor=#CCE5FF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="126.5" y="389.0899999999999" width="115" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png;strokeColor=#66B2FF;" vertex="1" parent="1">
+                    <mxGeometry x="116" y="390.9100000000001" width="60" height="28.18" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/03/Logo-Ubuntu.png;" vertex="1" parent="1">
+                    <mxGeometry x="135.75" y="424" width="28.89" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="" style="fillColor=#FFFFFF;strokeColor=#3399FF;verticalAlign=top;fontStyle=0;fontColor=#DD3522;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="135.75" y="340" width="98.5" height="46.09" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Service_Health.svg;shadow=0;strokeColor=#3399FF;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="195" y="348.46" width="31.01" height="29.18" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="&lt;font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Cluster Monitor&lt;br&gt;Service&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="141.11" y="344.57000000000005" width="48.89" height="36.95" as="geometry"/>
+                </mxCell>
+                <mxCell id="113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.033;entryY=0.86;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="83" target="109">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="" style="fillColor=#FFFFFF;strokeColor=#999999;verticalAlign=top;fontStyle=0;fontColor=#DD3522;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="124" y="456" width="120" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="manager03" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="164.64" y="550" width="65" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Swarm Manager&lt;/font&gt;" style="text;html=1;strokeColor=#CCCCCC;fillColor=#CCE5FF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="126.5" y="515.0899999999999" width="115" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png;strokeColor=#66B2FF;" vertex="1" parent="1">
+                    <mxGeometry x="116" y="516.9100000000001" width="60" height="28.18" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/03/Logo-Ubuntu.png;" vertex="1" parent="1">
+                    <mxGeometry x="135.75" y="550" width="28.89" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="" style="fillColor=#FFFFFF;strokeColor=#3399FF;verticalAlign=top;fontStyle=0;fontColor=#DD3522;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="135.75" y="466" width="98.5" height="46.09" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Service_Health.svg;shadow=0;strokeColor=#3399FF;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="195" y="474.46" width="31.01" height="29.18" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="&lt;font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Cluster Monitor&lt;br&gt;Service&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="141.11" y="470.57000000000005" width="48.89" height="36.95" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="" style="fillColor=#FFFFFF;strokeColor=#999999;verticalAlign=top;fontStyle=0;fontColor=#DD3522;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="-202" y="360" width="132" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" value="worker01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="-161.36" y="454" width="65" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Docker Daemon&lt;/font&gt;" style="text;html=1;strokeColor=#CCCCCC;fillColor=#CCE5FF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="-200.5" y="419.09" width="129.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png;strokeColor=#66B2FF;" vertex="1" parent="1">
+                    <mxGeometry x="-210" y="420.9100000000001" width="60" height="28.18" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/03/Logo-Ubuntu.png;" vertex="1" parent="1">
+                    <mxGeometry x="-190.25" y="454" width="28.89" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="109" target="20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#999999;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="200" width="50" height="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="110" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.returngis.net/wp-content/uploads/2021/07/Traefik.png;" vertex="1" parent="1">
+                    <mxGeometry x="244.01999999999998" y="332.46" width="81.95" height="81.95" as="geometry"/>
+                </mxCell>
+                <mxCell id="118" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Balancer&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="404" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="119" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Dieguito Cunas ERP System&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#B3FF66;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="-132.8" y="364" width="54.8" height="54.91" as="geometry"/>
+                </mxCell>
+                <mxCell id="120" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Dieguito Cunas ERP System&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#B3FF66;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="-194.8" y="364" width="54.8" height="54.91" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="" style="fillColor=#FFFFFF;strokeColor=#999999;verticalAlign=top;fontStyle=0;fontColor=#DD3522;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="418" y="134.71" width="132" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="122" value="worker01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="458.64" y="228.71" width="65" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="123" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Docker Daemon&lt;/font&gt;" style="text;html=1;strokeColor=#CCCCCC;fillColor=#CCE5FF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="419.5" y="193.79999999999998" width="129.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="124" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png;strokeColor=#66B2FF;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="195.6200000000001" width="60" height="28.18" as="geometry"/>
+                </mxCell>
+                <mxCell id="125" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/03/Logo-Ubuntu.png;" vertex="1" parent="1">
+                    <mxGeometry x="429.75" y="228.71" width="28.89" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="126" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Dieguito Cunas ERP System&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#B3FF66;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="487.2" y="138.71" width="54.8" height="54.91" as="geometry"/>
+                </mxCell>
+                <mxCell id="127" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Dieguito Cunas ERP System&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#B3FF66;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="425.2" y="138.71" width="54.8" height="54.91" as="geometry"/>
+                </mxCell>
+                <mxCell id="128" value="" style="fillColor=#FFFFFF;strokeColor=#999999;verticalAlign=top;fontStyle=0;fontColor=#DD3522;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="418" y="262.71" width="132" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" value="worker02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="458.64" y="356.71" width="65" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="130" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Docker Daemon&lt;/font&gt;" style="text;html=1;strokeColor=#CCCCCC;fillColor=#CCE5FF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="419.5" y="321.79999999999995" width="129.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="131" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png;strokeColor=#66B2FF;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="323.62000000000006" width="60" height="28.18" as="geometry"/>
+                </mxCell>
+                <mxCell id="132" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/03/Logo-Ubuntu.png;" vertex="1" parent="1">
+                    <mxGeometry x="429.75" y="356.71" width="28.89" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="133" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Dieguito Cunas ERP System&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#B3FF66;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="487.2" y="266.71" width="54.8" height="54.91" as="geometry"/>
+                </mxCell>
+                <mxCell id="134" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Dieguito Cunas ERP System&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#B3FF66;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="425.2" y="266.71" width="54.8" height="54.91" as="geometry"/>
+                </mxCell>
+                <mxCell id="171" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;shadow=0;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="390.34999999999997" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="172" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;shadow=0;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="412.71" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="173" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;shadow=0;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="434.22999999999996" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="174" value="" style="fillColor=#FFFFFF;strokeColor=#999999;verticalAlign=top;fontStyle=0;fontColor=#DD3522;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="418" y="480.71" width="132" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="175" value="worker07" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="458.64" y="574.7099999999999" width="65" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="176" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Docker Daemon&lt;/font&gt;" style="text;html=1;strokeColor=#CCCCCC;fillColor=#CCE5FF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="419.5" y="539.8" width="129.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="177" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png;strokeColor=#66B2FF;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="541.62" width="60" height="28.18" as="geometry"/>
+                </mxCell>
+                <mxCell id="178" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/03/Logo-Ubuntu.png;" vertex="1" parent="1">
+                    <mxGeometry x="429.75" y="574.7099999999999" width="28.89" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="179" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Dieguito Cunas ERP System&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#B3FF66;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="487.2" y="484.71" width="54.8" height="54.91" as="geometry"/>
+                </mxCell>
+                <mxCell id="180" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Dieguito Cunas ERP System&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#B3FF66;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="425.2" y="484.71" width="54.8" height="54.91" as="geometry"/>
+                </mxCell>
+                <mxCell id="181" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Virtual_Clusters.svg;shadow=0;strokeColor=#000000;fillColor=#66B2FF;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="80" width="41.25" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="182" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Virtual_Clusters.svg;shadow=0;strokeColor=#000000;fillColor=#66B2FF;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="147" width="41.25" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="183" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#000000;fillColor=#B3FF66;rotation=-90;" vertex="1" parent="1">
+                    <mxGeometry x="476.75" y="535.21" width="20" height="145" as="geometry"/>
+                </mxCell>
+                <mxCell id="184" value="7 Worker Nodes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="436.75" y="617.71" width="100" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
